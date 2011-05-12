@@ -52,9 +52,10 @@ boolean someDataInput = false;
 String chosenLetter = "";
 
 // WORD STUFF
-const int wordBankSize=6;
-String wordBank[wordBankSize] = {
-  "batty","krist","doves","euros","dukes","front"};
+const int wordBankSize=12;
+String wordBank[wordBankSize] = {"fiber","fatal","tutor","euros","tapes",
+                                 "front","skirt","stats","scare","model",
+                                 "nudes","nerds"};
 String alphabet = "9abcdefghijklmnopqrstuvwxyz_012345";
 int base_three_alphabet[34];
 
